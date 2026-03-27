@@ -8,7 +8,7 @@
     "editor.foreground": "#2a2419",
     "editorCursor.foreground": "#da7756",
     "editorCursor.background": "#eeece2",
-    "editor.lineHighlightBackground": "#eeece2",
+    "editor.lineHighlightBackground": "#e5e3d9",
     "editor.selectionBackground": "#da775640",
     "editor.selectionHighlightBackground": "#da775625",
     "editor.wordHighlightBackground": "#da775630",
@@ -196,7 +196,7 @@
     "gitDecoration.conflictingResourceForeground": "#da7756",
     "gitDecoration.submoduleResourceForeground": "#7a5a8a",
 
-    "terminal.background": "#eeece2",
+    "terminal.background": "#e5e4dc",
     "terminal.foreground": "#2a2419",
     "terminal.ansiBlack": "#2a2419",
     "terminal.ansiRed": "#9d4a3c",
